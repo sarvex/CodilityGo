@@ -60,6 +60,7 @@ _testmain.go
 *.exe
 *.test
 *.prof
+
 ### Windows template
 # Windows image file caches
 Thumbs.db
