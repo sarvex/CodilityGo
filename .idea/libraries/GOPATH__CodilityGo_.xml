@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="GOPATH &lt;CodilityGo&gt;">
+    <CLASSES>
+      <root url="file://$USER_HOME$/Go/src/github.com" />
+      <root url="file://$USER_HOME$/Go/src/golang.org" />
+      <root url="file://$USER_HOME$/Go/src/gopkg.in" />
+    </CLASSES>
+    <SOURCES />
+    <excluded>
+      <root url="file://$PROJECT_DIR$" />
+    </excluded>
+  </library>
+</component>
